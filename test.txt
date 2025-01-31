@@ -1,2 +1,2 @@
 Ceci est un fichier de test
-Ceci est une modification via guthub
+Et Ceci est une modification via guthub
